@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### ✦ um pouco sobre mim ✦
+### 👋 um pouco sobre mim
 
 </div>
 
@@ -37,7 +37,7 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 <div align="center">
 
-### ⌁ TECNOLOGIAS ⌁
+### 🛠️ tecnologias
 
 **Backend**
 
@@ -61,7 +61,7 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 <div align="center">
 
-### ▚ MEU STACK ▞
+### 📊 meu stack
 
 </div>
 
@@ -73,11 +73,11 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 | Tecnologia | Nível |
 |---|---|
-| Ruby on Rails | `█████████░` |
-| PostgreSQL / PLpgSQL | `████████░░` |
-| Segurança de API (JWT, RLS) | `████████░░` |
-| RSpec / pgTAP | `███████░░░` |
-| Python | `███████░░░` |
+| Ruby on Rails | <img src="https://geps.dev/progress/90?dangerColor=6D28D9&warningColor=6D28D9&successColor=6D28D9" /> |
+| PostgreSQL / PLpgSQL | <img src="https://geps.dev/progress/80?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED" /> |
+| Segurança de API | <img src="https://geps.dev/progress/80?dangerColor=8B31D8&warningColor=8B31D8&successColor=8B31D8" /> |
+| RSpec / pgTAP | <img src="https://geps.dev/progress/70?dangerColor=9D2FC4&warningColor=9D2FC4&successColor=9D2FC4" /> |
+| Python | <img src="https://geps.dev/progress/70?dangerColor=AE2DB0&warningColor=AE2DB0&successColor=AE2DB0" /> |
 
 </td>
 <td width="50%" valign="top">
@@ -86,11 +86,11 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 | Tecnologia | Nível |
 |---|---|
-| Flutter / Dart | `████████░░` |
-| TypeScript / React | `████████░░` |
-| Docker / Coolify | `████████░░` |
-| Supabase | `███████░░░` |
-| GitHub Actions | `███████░░░` |
+| Flutter / Dart | <img src="https://geps.dev/progress/80?dangerColor=BE185D&warningColor=BE185D&successColor=BE185D" /> |
+| TypeScript / React | <img src="https://geps.dev/progress/80?dangerColor=CC1C6B&warningColor=CC1C6B&successColor=CC1C6B" /> |
+| Docker / Coolify | <img src="https://geps.dev/progress/80?dangerColor=DA2079&warningColor=DA2079&successColor=DA2079" /> |
+| Supabase | <img src="https://geps.dev/progress/70?dangerColor=E32487&warningColor=E32487&successColor=E32487" /> |
+| GitHub Actions | <img src="https://geps.dev/progress/70?dangerColor=EC4899&warningColor=EC4899&successColor=EC4899" /> |
 
 </td>
 </tr>
@@ -98,9 +98,13 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 <div align="center">
 
-<sub>Linguagens somadas nos meus repositórios ativos</sub>
+<sub>Onde cada linguagem aparece no meu trabalho</sub>
 
-`Ruby` ██████████ · `TypeScript` ████████ · `Dart` ██████ · `Python` ██████ · `PHP` ███ · `JavaScript` ███
+<img src="https://img.shields.io/badge/Ruby-2%20backends%20em%20produção-6D28D9?style=flat-square&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-OdontoDose-8B31D8?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-2%20apps%20Flutter-AE2DB0?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-MCP%20e%20busca%20semântica-CC1C6B?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-plugin%20WordPress-EC4899?style=flat-square&logo=php&logoColor=white" />
 
 </div>
 
@@ -108,7 +112,7 @@ O que costuma aparecer no meu código: **API-only**, autenticação **JWT assina
 
 <div align="center">
 
-### ✧ PROJETOS ✧
+### 🚀 projetos
 
 <sub>Os sistemas que representam minha jornada de desenvolvimento</sub>
 
@@ -207,7 +211,7 @@ Plugin WordPress escrito do zero que gera Web Stories em AMP automaticamente a p
 
 <div align="center">
 
-### ⌬ ESTATÍSTICAS ⌬
+### 📈 estatísticas
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeviReisJs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=BE185D&text_color=C9D1D9&locale=pt-br" />
 <img height="165" src="https://streak-stats.demolab.com?user=LeviReisJs&hide_border=true&background=0D1117&stroke=EC4899&ring=EC4899&fire=BE185D&currStreakLabel=EC4899&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR" />
@@ -218,7 +222,7 @@ Plugin WordPress escrito do zero que gera Web Stories em AMP automaticamente a p
 
 <div align="center">
 
-### ♡ contribution garden
+### 🐍 contribution garden
 
 <img src="https://raw.githubusercontent.com/LeviReisJs/LeviReisJs/output/snake.svg" alt="snake" width="100%" />
 
@@ -228,7 +232,7 @@ Plugin WordPress escrito do zero que gera Web Stories em AMP automaticamente a p
 
 <div align="center">
 
-### ✉ vamos conversar?
+### 📬 vamos conversar?
 
 <a href="mailto:masterface77@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899" /></a>
 <a href="https://odontodose.com.br"><img src="https://img.shields.io/badge/ODONTODOSE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=EC4899" /></a>
